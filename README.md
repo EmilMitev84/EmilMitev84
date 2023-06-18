@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Emil Mitev
+- 👋 Hi, I’m Emil Mitev.
 - 👀 I’m interested in Visual Arts, digital and traditional.
 - 🌱 I’m currently learning QA.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: emo.v.mitev@gmail.com
 
 <!---
